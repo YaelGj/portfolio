@@ -144,16 +144,20 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
+    title: "Qui suis-je ?"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      Je suis 
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      Je travaille actuellement en tant que chef de projet / développeur d'application PowerApps-DataVerse pour la SNCF.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
+        - "PowerApps"
+        - "DataVerse"
+        - "Hugo"
+        - "Python"
         - "HTML"
         - "CSS"
         - "JavaScript"
@@ -166,36 +170,38 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Chef de projet / Développeur"
+        company: "SNCF"
+        companyUrl: "https://www.sncf-voyageurs.com/fr/"
+        date: "Sept 2020 - present"
         featuredLink:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "Je travail actuellement dans une équipe de création d'application métier"
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+      - job: "Administrateur système"
+        company: "VoxPro - Airbnb - Google"
+        companyUrl: "https://www.linkedin.com/company/voxpro/"
+        date: "Jan 2020 - Avr 2020"
         featuredLink:
           enable: true
           url: "https://example.com"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: Collaboration au sein d’une équipe anglophone et internationale, assistance utilisateurs, installation de nouveaux open-space, management des nouveaux stagiaires.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          J'ai eu la chance de travailler dans un environement anglophone pendant 3 mois à Cork en Irland.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Collaboration au sein d’une équipe anglophone et internationale
+          - Assistance utilisateurs
+          - Installation de nouveaux open-space
+          - Management des stagiaires.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "Administrateur Systèmes et réseaux"
+        company: "Sacred"
+        companyUrl: "https://www.sacredgroup.com/fr/corporate/index.php "
+        date: "Sept 2017 - Sept 2019"
         info:
           enable: false
         featuredLink:
@@ -204,27 +210,28 @@ params:
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Assistance des utili
+          - Gestion du projet de déploiement WIFI en milieu industrielle afin d’intégrer le relever de production automatiquement à l’aide d’un chariot autonome de reporting sur batterie.
+          - Création d’une interface graphique d’administration distante en PowerShell.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+      - job: "Technicien SAV et réparation de drone"
+        company: "studioSPORT"
+        companyUrl: "https://www.studiosport.fr/"
+        date: "Mai 2017 - Sept 2017"
         featuredLink:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          J'ai eu la chance de faire parti de l'équipe service après vente de studioSPORT.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Réparation de Drones de prise de vue aérienne civile, professionnel et de course.
+          - Assistance client.
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      - job: "Barman - Serveur"
+        company: "Restaurants"
+        companyUrl: "https://www.aubureau.fr/"
+        date: "Feb 2016 - Mai 2017"
+        content: "Serveur et barman dans divers bar et restaurants de Rouen."
 
   # Education
   education:
@@ -236,12 +243,10 @@ params:
         school:
           name: "University of California, Berkeley"
           url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+        date: "2021 - 2023"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Diplôme RNCP de niveau bac+3
+            - Responsable de projet informatique en alternance.
       - title: "Bachelor of Science in Computer Science"
         school:
           name: "Massachusetts Institute of Technology"
