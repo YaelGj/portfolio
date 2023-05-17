@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://yaelgrosjean.com"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
@@ -117,10 +117,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    intro: "Bonjour, je m'appelle"
+    title: "Yaël."
+    subtitle: "Dans l'informatique depuis 10 ans"
+    content: "Je suis un développeur d'applications passionné. J'ai tendance à utiliser les dernières technologies pour construire solutions qui ont une belle apparence, sont agréables à utiliser et fonctionnent correctement."
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -134,9 +134,9 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-twitter
-          url: https://example.com
+          url: https://github.com/YaelGj
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/yael-grosjean/
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
