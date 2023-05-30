@@ -1,5 +1,8 @@
 baseURL: "https://yaelgrosjean.com"
-languageCode: "en-us"
+languageCode : 'fr-FR'
+defaultContentLanguage : "fr"
+defaultContentLang : "fr"
+languageName: Français
 title: "Hugo Profile"
 theme: hugo-profile
 
