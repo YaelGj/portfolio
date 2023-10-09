@@ -195,7 +195,7 @@ params:
           enable: true
           url: "https://example.com"
         info:
-          enable: true
+          enable: false
           content: Collaboration au sein d’une équipe anglophone et internationale, assistance utilisateurs, installation de nouveaux open-space, management des nouveaux stagiaires.
         content: |
           -	Participation proactive au sein d'une équipe dynamique et multiculturelle, dédiée à l'excellence opérationnelle. Responsabilité de la fourniture d'une assistance informatique de premier ordre aux utilisateurs et mise en place de solutions informatiques innovantes pour les nouveaux espaces de travail. Déploiement et supervision de trois stagiaires talentueux, venant d'horizons internationaux, dans le but d'optimiser leur potentiel et d'assurer l'alignement stratégique.
@@ -207,7 +207,7 @@ params:
         info:
           enable: false
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
@@ -241,10 +241,37 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "CHEF DE PROJET INGÉNIERIE LOGICIELLE"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
+          name: "IPI Lyon, groupe IGS"
+          url: "https://www.ipi-ecoles.com/"
+        date: "2021 - 2023"
+        content: |-
+          Diplôme RNCP de niveau bac+5
+            - CONCEPTION ET DÉVELOPPEMENT LOGICIEL
+            - Conception objet UML
+            - Maîtriser l’analyse et le développement logiciel JAVA
+            - Principes de programmation de langages intégrés (Environnement .NET)
+            - Algorithme
+            - Programmation et conception en environnement intégré JavaScript (Angular en front-end et Node.JS en back-end)
+            - ADMINISTRATION BASES DE DONNÉES
+            - Méthode merise
+            - SQL
+            - Conception de Bases de données
+            - Outils de gestion SGBDR
+            - GESTION DE PROJETS
+            - MANAGEMENT DU CHANGEMENT
+            - AUDIT ET ÉVALUATION DES SI
+            - RECONFIGURATION DE PROCESSUS, RÉINGÉNIERIE
+            - URBANISATION ET SCHÉMA DIRECTEUR
+            - DÉMARCHE QUALITÉ
+            - PRATIQUE DE LA GESTION POUR NON-GESTIONNAIRES
+            - COMMUNICATION – INFORMATION
+            - DROIT ET TECHNOLOGIES DE L’INFORMATION
+      - title: "Bachelor en ingénieurie logiciel"
+        school:
+          name: "Isitech Lyon"
+          url: "https://www.ecole-isitech.com/"
         date: "2021 - 2023"
         content: |-
           Diplôme RNCP de niveau bac+3
