@@ -245,7 +245,7 @@ params:
         school:
           name: "IPI Lyon, groupe IGS"
           url: "https://www.ipi-ecoles.com/"
-        date: "2021 - 2023"
+        date: "2020 - 2023"
         content: |-
           Diplôme RNCP de niveau bac+5
             - CONCEPTION ET DÉVELOPPEMENT LOGICIEL
@@ -272,13 +272,13 @@ params:
         school:
           name: "Isitech Lyon"
           url: "https://www.ecole-isitech.com/"
-        date: "2021 - 2023"
+        date: "2019 - 2020"
         content: |-
           Diplôme RNCP de niveau bac+3
             - Responsable de projet informatique en alternance.
-      - title: "Bachelor of Science in Computer Science"
+      - title: "Bac +2"
         school:
-          name: "Massachusetts Institute of Technology"
+          name: ""
           url: "https://example.org"
         date: "2009 - 2013"
         GPA: "3.9 out of 5.0"
