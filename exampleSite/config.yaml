@@ -267,6 +267,7 @@ params:
             - PRATIQUE DE LA GESTION POUR NON-GESTIONNAIRES.
             - COMMUNICATION – INFORMATION.
             - DROIT ET TECHNOLOGIES DE L’INFORMATION.
+
       - title: "Bachelor en ingénieurie logiciel"
         school:
           name: "Isitech Lyon"
@@ -283,6 +284,11 @@ params:
             - Programmation réalité virtuelle : C# / Unity3D	LPI 102 – Linux gestion des réseaux / Administration avancée.
             - Programmation blockchain : Solidity	Virtualiser avec Docker.
             - Base de données Microsoft SQL Server / NoSQL MongoDB.
+        featuredLink:
+          enable: true
+          name: "Lien fiche formation"
+          url: "https://www.ecole-isitech.com/formations/rpi/"
+
       - title: "Bac +2"
         school:
           name: ""
@@ -297,16 +303,17 @@ params:
           - Eventuellement intervenir sur les aspects télécom.
         featuredLink:
           enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
+          name: "Lien fiche formation"
+          url: "https://www.cesi.fr/formation/technicien-ne-systemes-et-reseaux-en-alternance-2169014/"
+
+      - title: "Bac Sciences et Technique de l'Industrie et du Dévelopement Durable spécialisation Système Informatique et Numérique"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
+          name: "Lycée Blaise Pascal, Rouen"
+          url: "https://pascal.lycee.ac-normandie.fr/"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          name: "Lien fiche formation"
+          url: "https://etudiant.lefigaro.fr/vos-etudes/etudes-secondaires/33902-bac-sti2d-option-sin-tout-savoir/"
 
   # Achievements
   achievements:
