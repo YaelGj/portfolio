@@ -122,9 +122,9 @@ params:
     enable: true
     intro: "Bonjour, je m'appelle"
     title: "Yaël."
-    subtitle: "Dans l'informatique depuis 10 ans"
-    content: "Je suis un développeur d'applications passionné. J'ai tendance à utiliser les dernières technologies pour construire des solutions qui ont une belle apparence, sont agréables à utiliser et fonctionnent correctement."
-    image: /images/hero.svg
+    subtitle: "10 ans d'expérience pluridisciplinaire en informatique"
+    content: "Je suis un architecte d'applications passionné. J'ai tendance à utiliser les dernières technologies pour construire des solutions qui ont une belle apparence, sont agréables à utiliser et fonctionnent correctement."
+    image: /images/PhotoYael.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
