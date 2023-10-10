@@ -122,8 +122,8 @@ params:
     enable: true
     intro: "Bonjour, je m'appelle"
     title: "Yaël."
-    subtitle: "10 ans d'expérience pluridisciplinaire en informatique"
-    content: "Je suis un architecte d'applications passionné. J'ai tendance à utiliser les dernières technologies pour construire des solutions qui ont une belle apparence, sont agréables à utiliser et fonctionnent correctement."
+    subtitle: "Chef de projet et développeur freelance avec 10 ans d'expérience, je transforme les concepts en réalité numérique avec expertise et créativité."
+    content: "Architecte d'application, Chef de projet, développeur, Formateur, Accompagnateur au changement, peu importe votre projet, je saurai vous accompagner dans vos problématiques informatiques"
     image: /images/PhotoYael.jpg
     bottomImage:
       enable: true
@@ -150,9 +150,7 @@ params:
     title: "Qui suis-je ?"
     image: "/images/me.png"
     content: |-
-      Je suis 
-
-      Je travaille actuellement en tant que chef de projet / développeur d'application PowerApps-DataVerse pour la SNCF.
+      Chef de projet et développeur freelance expérimenté, je transforme les idées en solutions numériques innovantes. Passionné par l'informatique, je m'engage à créer des applications et des sites web exceptionnels, combinant expertise technique et créativité pour atteindre vos objectifs avec succès.
     skills:
       enable: true
       title: "Voici les dernières technologies avec lesquelles j'ai travaillé:"
@@ -197,9 +195,12 @@ params:
           url: "https://example.com"
         info:
           enable: false
-          content: Collaboration au sein d’une équipe anglophone et internationale, assistance utilisateurs, installation de nouveaux open-space, management des nouveaux stagiaires.
+          content: Collaboration au sein d’une équipe anglophone et internationale, assistance utilisateurs anglophones, installation de nouveaux open-space, management des nouveaux stagiaires.
         content: |
-          -	Participation proactive au sein d'une équipe dynamique et multiculturelle, dédiée à l'excellence opérationnelle. Responsabilité de la fourniture d'une assistance informatique de premier ordre aux utilisateurs et mise en place de solutions informatiques innovantes pour les nouveaux espaces de travail. Déploiement et supervision de trois stagiaires talentueux, venant d'horizons internationaux, dans le but d'optimiser leur potentiel et d'assurer l'alignement stratégique.
+          -	Participation proactive au sein d'une équipe dynamique et multiculturelle, dédiée à l'excellence opérationnelle.
+          - Responsabilité de la fourniture d'une assistance informatique de premier ordre aux utilisateurs et mise en place de solutions informatiques innovantes pour les nouveaux espaces de travail.
+          - Déploiement et supervision de trois stagiaires anglophones, venant d'horizons internationaux, dans le but d'optimiser leur potentiel et d'assurer l'alignement stratégique.
+          - Assistance utilisateurs anglophones.
 
       - job: "Administrateur Systèmes et réseaux"
         company: "Sacred"
