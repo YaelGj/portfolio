@@ -232,7 +232,7 @@ params:
         company: "Restaurants"
         companyUrl: "https://www.aubureau.fr/"
         date: "Feb 2016 - Mai 2017"
-        content: "Serveur et barman dans divers bar et restaurants de Rouen, dont 'le bureau.'"
+        content: "Serveur et barman dans divers bar et restaurants de Rouen, dont le bureau."
 
   # Education
   education:
@@ -288,7 +288,7 @@ params:
           name: ""
           url: "https://rouen.cesi.fr/"
         date: "2016 - 2018"
-        content:
+        content: |-
           - Installer, configurer et assurer la maintenance des PC.
           - Assurer la gestion des sauvegardes et la maintenance des équipements réseaux.
           - Installer, configurer et administrer les serveurs de l’entreprise.
