@@ -181,7 +181,7 @@ params:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: 
+        content: |
           -	Réalisation de cahiers des charges en étroite collaboration avec les parties prenantes, afin d'assurer le succès du projet. Implémentation de solutions intégrées sur la plateforme PowerPlatform (WebApp & Mobile) basée sur Dataverse, l’écosystème Cloud de Microsoft.
           -	Gestion complète du cycle de développement des applications dédiées à la gestion des congés de disponibilité, du recrutement des alternants, ainsi que de la déclaration et de la gestion des arrêts de travail.
           -	Dispensation de formations à l'intention des utilisateurs finaux, avec une envergure pouvant atteindre plus de 200 participants par session.
