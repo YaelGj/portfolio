@@ -161,9 +161,12 @@ params:
         - "Python"
         - "HTML"
         - "CSS"
+        - "C++"
+        - "C#"
         - "JavaScript"
         - "React"
-        - "Node"
+        - "React Native"
+        - "Node JS"
         - "Express"
 
   # Experience
@@ -347,8 +350,7 @@ params:
           link: https://yaelgrosjean.com/
         badges:
           - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Netlify"
         links:
           - icon: fab fa-github
             url: https://github.com/YaelGj/portfolio
@@ -356,35 +358,33 @@ params:
       - title: Application Gestion des arrêts de travails.
         content: Une double application mobile et web pour que les agents puissent déclarer leurs arrêts et les gestionnaires RH puissent assurer leurs suivis.
         image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
         badges:
           - "PowerApps"
           - "Dataverse"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+
+      - title: Application Gestion des congés de disponbilité.
+        content: Une application web pour que les gestionnaires puissent assurer le bon respect et suivie du processus de recrutement des futurs alternants SNCF.
+        image: /images/projects/profile2.jpg
+        badges:
+          - "PowerApps"
+          - "Dataverse"       
 
       - title: Application Gestion des contrats d'alternances.
         content: Une application web pour que les gestionnaires puissent assurer le bon respect et suivie du processus de recrutement des futurs alternants SNCF.
         image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
         badges:
           - "PowerApps"
           - "Dataverse"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2     
+
+      - title: Création d'un sharepoint de département et accompagnement à la migration o365
+        content: Accompagnement au changement de plus de 250 gestionnaires RH.
+        image: /images/projects/SharepointADPP.png
+        badges:
+          - "Sharepoint"        
 
       - title: Jeux mobile android.
-        content: Un jeux mobile inspiré des "beat them all" 2D des années 90.
+        content: Un jeux mobile 2D inspiré des "beat them all" des années 90.
         image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
         badges:
           - "Unity"
           - "C#"
@@ -392,18 +392,35 @@ params:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2                  
 
-      - title: Drone d'exploration et de prélèvement terrestre.
-        content: Projet pour le Bac, 18/20 et félicitaions du jury.
-        image: /images/projects/profile2.jpg
+      - title: MiaouBot
+        content: Projet école bac+4, Bot conversationnel de recettes de cuisine, météo et détéction de vulgarité.
+        image: /images/projects/MiaouBot.png
+        featured:
+          name: Documentation
+          link: https://sponge-brook-9a7.notion.site/MeowBot-5c03f81d42254792917676f9b1b5d8a6
+        badges:
+          - "Sightengine"
+          - "DialogFlow"
+          - "Hugo"
+          - "NodeJS"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/Rvergne63200/ianodejs     
+
+      - title: Help'O, Application de déclaration des personnes dans le besoins.
+        content: Projet école Bac+3, félicitaions du jury.
+        image: /images/projects/HelpO.png
         featured:
           name: Vidéo
           link: https://drive.google.com/file/d/0B-PUugYpxnWzMXhVWDAwQTkxRG8/view?usp=drive_link&resourcekey=0-BJNtOZl3SIqkmrSxhfxU-A
         badges:
           - "React"
           - "React Native"
-          - "JavaScript"
-          - "HTML"
-          - "CSS"
+          - "Docker"
+          - "Expo"
+          - "MongoDB"
+          - "NodeJS"
+          - "Leaflet"
         links:
           - icon: fab fa-github
             url: https://github.com/YaelGj/RPI-HelpO     
@@ -413,7 +430,7 @@ params:
         image: /images/projects/profile2.jpg
         featured:
           name: Vidéo
-          link: https://drive.google.com/file/d/0B-PUugYpxnWzMXhVWDAwQTkxRG8/view?usp=drive_link&resourcekey=0-BJNtOZl3SIqkmrSxhfxU-A
+          link: https://youtu.be/P2uJa8_VPm4
         badges:
           - "Arduino"
           - "C++"
