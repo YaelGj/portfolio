@@ -18,7 +18,7 @@ outputs:
 Paginate: 3
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
-# googleAnalytics: G-MEASUREMENT_ID
+googleAnalytics: zQExSSlzREyVfZtYGe_KxA
 
 markup:
   goldmark:
@@ -225,8 +225,6 @@ params:
           enable: true
           url: "https://example.com"
         content: |
-          J'ai eu la chance de faire parti de l'équipe service après vente de studioSPORT.
-
           - Réparation de Drones de prise de vue aérienne civile, professionnel et de course.
           - Assistance client.
 
