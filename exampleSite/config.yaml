@@ -241,7 +241,7 @@ params:
   education:
     enable: true
     # title: "Custom Name"
-    index: false
+    index: true
     items:
       - title: "CHEF DE PROJET INGÉNIERIE LOGICIELLE"
         school:
@@ -271,15 +271,12 @@ params:
             - COMMUNICATION – INFORMATION.
             - DROIT ET TECHNOLOGIES DE L’INFORMATION.
 
-      - title: "Bachelor en ingénieurie logiciel"
+      - title: "Responsable de projet informatique en alternance."
         school:
           name: "Isitech Lyon"
           url: "https://www.ecole-isitech.com/"
         date: "2019 - 2020"
         content: |-
-          Diplôme RNCP de niveau bac+3
-            Responsable de projet informatique en alternance.
-
             - Développement	Systèmes & Réseaux.
             - Programmation structurée : C ++	Windows Server : Architecture Client / Serveur.
             - Programmation web : React	Découvrir la cybersécurité.
@@ -355,9 +352,16 @@ params:
           - icon: fab fa-github
             url: https://github.com/YaelGj/portfolio
 
-      - title: Application Gestion des arrêts de travails.
-        content: Une double application mobile et web pour que les agents puissent déclarer leurs arrêts et les gestionnaires RH puissent assurer leurs suivis.
-        image: /images/projects/profile2.jpg
+      - title: Application Web Gestion des arrêts de travails.
+        content: Application web à destination des gestionnaires RH afin qu'ils puissent assurer le suivis des arrêts et déclencher au besoin des contrôles.
+        image: /images/projects/ArretsTravails.png
+        badges:
+          - "PowerApps"
+          - "Dataverse"
+
+      - title: Application Mobile Gestion des arrêts de travails.
+        content: Application mobile à destination des agents afin qu'ils puissent déclarer leurs arrêts.
+        image: /images/projects/ArretsTravailsMobile.png
         badges:
           - "PowerApps"
           - "Dataverse"
@@ -371,7 +375,7 @@ params:
 
       - title: Application Gestion des contrats d'alternances.
         content: Une application web pour que les gestionnaires puissent assurer le bon respect et suivie du processus de recrutement des futurs alternants SNCF.
-        image: /images/projects/profile2.jpg
+        image: /images/projects/GestionAlternance.png
         badges:
           - "PowerApps"
           - "Dataverse"
@@ -384,13 +388,16 @@ params:
 
       - title: Jeux mobile android.
         content: Un jeux mobile 2D inspiré des "beat them all" des années 90.
-        image: /images/projects/profile2.jpg
+        image: /images/projects/JeuMobile.png
+        featured:
+          name: APK
+          link: https://drive.google.com/file/d/1AXf7sKI9cuUsRNARNR5zEvKLwkabnh8k/view?usp=drive_link
         badges:
           - "Unity"
           - "C#"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2                  
+            url: https://github.com/momokinou/Cours-IPI-Android                  
 
       - title: MiaouBot
         content: Projet école bac+4, Bot conversationnel de recettes de cuisine, météo et détéction de vulgarité.
