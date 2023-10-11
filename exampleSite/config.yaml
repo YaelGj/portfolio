@@ -18,7 +18,7 @@ outputs:
 Paginate: 3
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
-googleAnalytics: zQExSSlzREyVfZtYGe_KxA
+googleAnalytics: G-VQSHDX7RM6
 
 markup:
   goldmark:
