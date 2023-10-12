@@ -294,13 +294,10 @@ params:
           url: "https://pascal.lycee.ac-normandie.fr/"
         date: "2016 - 2018"
         content: |-
-          "- Expertise Technique : Le bac STI2D SIN offre une solide formation en informatique et robotique, dotant les étudiants de compétences techniques avancées.
-
+          - Expertise Technique : Le bac STI2D SIN offre une solide formation en informatique et robotique, dotant les étudiants de compétences techniques avancées.
           - Conception et Programmation : Il met l'accent sur la conception de systèmes informatiques complexes et la programmation, essentielles en ingénierie informatique et robotique.
-
           - Projets Réels en Équipe : Les étudiants travaillent sur des projets concrets, développant des compétences en travail d'équipe, cruciales dans le domaine de l'ingénierie.
-
-          - Polyvalence et Adaptabilité : En plus des compétences spécialisées, le programme forme à une approche holistique des problèmes, préparant les étudiants à s'adapter aux évolutions technologiques en tant que futurs consultants informatiques spécialisés en ingénierie."       
+          - Polyvalence et Adaptabilité : En plus des compétences spécialisées, le programme forme à une approche holistique des problèmes, préparant les étudiants à s'adapter aux évolutions technologiques en tant que futurs consultants informatiques spécialisés en ingénierie.
         featuredLink:
           enable: true
           name: "Fiche formation"
@@ -454,7 +451,7 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: true
+      enable: false
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/YaelGj
