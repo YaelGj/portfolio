@@ -140,9 +140,9 @@ params:
           url: https://github.com/YaelGj
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/yael-grosjean/
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+  #    customIcons:
+  #      - icon: /fav.png
+  #        url: "https://example.com"
 
   # About
   about:
@@ -153,7 +153,7 @@ params:
       Chef de projet et développeur freelance expérimenté, je transforme les idées en solutions numériques innovantes. Passionné par l'informatique, je m'engage à créer des applications et des sites web exceptionnels, combinant expertise technique et créativité pour atteindre vos objectifs avec succès.
     skills:
       enable: true
-      title: "Voici les dernières technologies avec lesquelles j'ai travaillé:"
+      title: "Voici les dernières technologies avec lesquelles j'ai travaillé :"
       items:
         - "PowerApps"
         - "DataVerse"
@@ -222,7 +222,7 @@ params:
   # Education
   education:
     enable: true
-    # title: "Custom Name"
+    title: "Parcours scolaire"
     index: true
     items:
       - title: "CHEF DE PROJET INGÉNIERIE LOGICIELLE"
@@ -268,7 +268,7 @@ params:
             - Base de données Microsoft SQL Server / NoSQL MongoDB.
         featuredLink:
           enable: true
-          name: "Lien fiche formation"
+          name: "Fiche formation"
           url: "https://www.ecole-isitech.com/formations/rpi/"
 
       - title: "Bac +2"
@@ -285,16 +285,25 @@ params:
           - Eventuellement intervenir sur les aspects télécom.
         featuredLink:
           enable: true
-          name: "Lien fiche formation"
+          name: "Fiche formation"
           url: "https://www.cesi.fr/formation/technicien-ne-systemes-et-reseaux-en-alternance-2169014/"
 
       - title: "Bac Sciences et Technique de l'Industrie et du Dévelopement Durable spécialisation Système Informatique et Numérique"
         school:
           name: "Lycée Blaise Pascal, Rouen"
           url: "https://pascal.lycee.ac-normandie.fr/"
+        date: "2016 - 2018"
+        content: |-
+          "- Expertise Technique : Le bac STI2D SIN offre une solide formation en informatique et robotique, dotant les étudiants de compétences techniques avancées.
+
+          - Conception et Programmation : Il met l'accent sur la conception de systèmes informatiques complexes et la programmation, essentielles en ingénierie informatique et robotique.
+
+          - Projets Réels en Équipe : Les étudiants travaillent sur des projets concrets, développant des compétences en travail d'équipe, cruciales dans le domaine de l'ingénierie.
+
+          - Polyvalence et Adaptabilité : En plus des compétences spécialisées, le programme forme à une approche holistique des problèmes, préparant les étudiants à s'adapter aux évolutions technologiques en tant que futurs consultants informatiques spécialisés en ingénierie."       
         featuredLink:
           enable: true
-          name: "Lien fiche formation"
+          name: "Fiche formation"
           url: "https://etudiant.lefigaro.fr/vos-etudes/etudes-secondaires/33902-bac-sti2d-option-sin-tout-savoir/"
 
   # Achievements
@@ -322,7 +331,7 @@ params:
     # title: "Custom Name"
     items:
       - title: Hugo Portfolio
-        content: Mon portfolio en ligne, utilisant le générateur de site web static HUGO et le pipeline de déploiement Netlify.
+        content: Mon portfolio en ligne, utilisant le générateur de site web static HUGO et le pipeline de déploiement Netlify
         image: /images/projects/profile.png
         featured:
           name: Site
@@ -334,29 +343,29 @@ params:
           - icon: fab fa-github
             url: https://github.com/YaelGj/portfolio
 
-      - title: Application Web Gestion des arrêts de travails.
-        content: Application web à destination des gestionnaires RH afin qu'ils puissent assurer le suivis des arrêts et déclencher au besoin des contrôles.
+      - title: Application Web Gestion des arrêts de travails
+        content: Application web à destination des gestionnaires RH afin qu'ils puissent assurer le suivis des arrêts et déclencher au besoin des contrôles
         image: /images/projects/ArretsTravails.png
         badges:
           - "PowerApps"
           - "Dataverse"
 
-      - title: Application Mobile Gestion des arrêts de travails.
-        content: Application mobile à destination des agents afin qu'ils puissent déclarer leurs arrêts.
+      - title: Application Mobile Gestion des arrêts de travails
+        content: Application mobile à destination des agents afin qu'ils puissent déclarer leurs arrêts
         image: /images/projects/ArretsTravailsMobile.png
         badges:
           - "PowerApps"
           - "Dataverse"
 
-      - title: Application Gestion des congés de disponbilité.
-        content: Une application web pour que les gestionnaires puissent assurer le bon respect et suivie du processus de recrutement des futurs alternants SNCF.
+      - title: Application Gestion des congés de disponbilité
+        content: Une application web pour que les gestionnaires puissent assurer le bon respect et suivie du processus de recrutement des futurs alternants SNCF
         image: /images/projects/profile2.jpg
         badges:
           - "PowerApps"
           - "Dataverse"       
 
-      - title: Application Gestion des contrats d'alternances.
-        content: Une application web pour que les gestionnaires puissent assurer le bon respect et suivie du processus de recrutement des futurs alternants SNCF.
+      - title: Application Gestion des contrats d'alternances
+        content: Une application web pour que les gestionnaires puissent assurer le bon respect et suivie du processus de recrutement des futurs alternants SNCF
         image: /images/projects/GestionAlternance.png
         badges:
           - "PowerApps"
@@ -368,8 +377,8 @@ params:
         badges:
           - "Sharepoint"        
 
-      - title: Jeux mobile android.
-        content: Un jeux mobile 2D inspiré des "beat them all" des années 90.
+      - title: Jeux mobile android
+        content: Un jeux mobile 2D inspiré des "beat them all" des années 90
         image: /images/projects/JeuMobile.png
         featured:
           name: APK
@@ -382,7 +391,7 @@ params:
             url: https://github.com/momokinou/Cours-IPI-Android                  
 
       - title: MiaouBot
-        content: Projet école bac+4, Bot conversationnel de recettes de cuisine, météo et détéction de vulgarité.
+        content: Projet école bac+4, Bot conversationnel de recettes de cuisine, météo et détéction de vulgarité
         image: /images/projects/MiaouBot.png
         featured:
           name: Documentation
@@ -396,8 +405,8 @@ params:
           - icon: fab fa-github
             url: https://github.com/Rvergne63200/ianodejs     
 
-      - title: Help'O, Application de déclaration des personnes dans le besoins.
-        content: Projet école Bac+3, félicitaions du jury.
+      - title: Help'O, Application de déclaration des personnes dans le besoins
+        content: Projet école Bac+3, félicitaions du jury
         image: /images/projects/HelpO.png
         featured:
           name: Vidéo
@@ -414,9 +423,9 @@ params:
           - icon: fab fa-github
             url: https://github.com/YaelGj/RPI-HelpO     
 
-      - title: Drone d'exploration et de prélèvement terrestre.
-        content: Projet pour le Bac, 18/20 et félicitaions du jury.
-        image: /images/projects/profile2.jpg
+      - title: Drone d'exploration et de prélèvement terrestre
+        content: Projet pour le Bac, 18/20 et félicitaions du jury
+        image: /images/projects/DroneExploration.jpg
         featured:
           name: Vidéo
           link: https://youtu.be/P2uJa8_VPm4
@@ -430,10 +439,10 @@ params:
   #Contact
   contact:
     enable: true
-    # title: "Custom Name"
+    title: "Me contacter"
     content: Ma boîte de réception est toujours ouverte. Que vous ayez un projet à me proposer ou que vous souhaitiez simplement me saluer, je ferai de mon mieux pour vous répondre !
     email: yael.grosjean@protonmail.com
-    btnName: Mail me
+    btnName: Email
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
