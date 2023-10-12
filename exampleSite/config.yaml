@@ -223,7 +223,7 @@ params:
   education:
     enable: true
     title: "Parcours scolaire"
-    index: true
+    index: false
     items:
       - title: "CHEF DE PROJET INGÉNIERIE LOGICIELLE"
         school:
