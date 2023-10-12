@@ -124,7 +124,7 @@ params:
     title: "Yaël."
     subtitle: "Chef de projet et développeur freelance avec 10 ans d'expérience, je transforme les concepts en réalité numérique avec expertise et créativité."
     content: "Architecte d'application, Chef de projet, développeur, Formateur, Accompagnateur au changement, peu importe votre projet, je saurai vous accompagner dans vos problématiques informatiques"
-    image: /images/PhotoYael.jpg
+    image: /images/PhotoYaelRegardCoteZoom.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -148,7 +148,7 @@ params:
   about:
     enable: true
     title: "Qui suis-je ?"
-    image: "/images/me.png"
+    image: "/images/PhotoYael.jpg"
     content: |-
       Chef de projet et développeur freelance expérimenté, je transforme les idées en solutions numériques innovantes. Passionné par l'informatique, je m'engage à créer des applications et des sites web exceptionnels, combinant expertise technique et créativité pour atteindre vos objectifs avec succès.
     skills:
