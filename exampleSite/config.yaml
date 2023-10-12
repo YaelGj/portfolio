@@ -130,10 +130,10 @@ params:
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
-      name: "Resume"
-      url: "#"
+      name: "CV"
+      url: "https://drive.google.com/file/d/1mCdvxzNWawSoNPl9KQbBaXuPS7FtGlNi/view?usp=drive_link"
       download: true
-      newPage: false
+      newPage: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
