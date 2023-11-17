@@ -329,7 +329,7 @@ params:
     items:
       - title: Hugo Portfolio
         content: Mon portfolio en ligne, utilisant le générateur de site web static HUGO et le pipeline de déploiement Netlify
-        image: /images/projects/profile.png
+        image: /images/projects/portfolio.png
         featured:
           name: Site
           link: https://yaelgrosjean.com/
