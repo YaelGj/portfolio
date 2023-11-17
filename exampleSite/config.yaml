@@ -437,14 +437,14 @@ params:
   contact:
     enable: true
     title: "Me contacter"
-    content: Ma boîte de réception est toujours ouverte. Que vous ayez un projet à me proposer ou que vous souhaitiez simplement me saluer, je ferai de mon mieux pour vous répondre !
+    content: Je vous invite à me contacter pour tout projet informatique !
     email: yael.grosjean@protonmail.com
     btnName: Email
-    # formspree:
-    #   enable: true # `contact.email` value will be ignored
-    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-    #   emailCaption: "Enter your email address"
-    #   messageCaption: "Enter your message here"
+    formspree:
+      enable: true # `contact.email` value will be ignored
+      formId: moqozdrp # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+      emailCaption: "Entrez votre adresse email ici"
+      messageCaption: "Entrez votre message ici"
 
   footer:
     recentPosts:
