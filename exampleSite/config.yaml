@@ -353,6 +353,9 @@ params:
         badges:
           - "PowerApps"
           - "Dataverse"
+        featured:
+          name: Vidéo
+          link: https://youtu.be/Dl7m7cnCN5w
 
       - title: Application Gestion des congés de disponbilité
         content: Une application web pour que les gestionnaires puissent assurer le bon respect et suivie du processus de recrutement des futurs alternants SNCF
@@ -364,6 +367,9 @@ params:
       - title: Application Gestion des contrats d'alternances
         content: Une application web pour que les gestionnaires puissent assurer le bon respect et suivie du processus de recrutement des futurs alternants SNCF
         image: /images/projects/GestionAlternance.png
+        featured:
+          name: Vidéo
+          link: https://youtu.be/Dl7m7cnCN5w
         badges:
           - "PowerApps"
           - "Dataverse"
@@ -407,7 +413,7 @@ params:
         image: /images/projects/HelpO.png
         featured:
           name: Vidéo
-          link: https://drive.google.com/file/d/0B-PUugYpxnWzMXhVWDAwQTkxRG8/view?usp=drive_link&resourcekey=0-BJNtOZl3SIqkmrSxhfxU-A
+          link: https://youtu.be/ZJ_yeF2DBUk
         badges:
           - "React"
           - "React Native"
