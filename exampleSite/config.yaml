@@ -323,7 +323,7 @@ params:
         url: https://example.com
 
   # projects
-  projects:
+  projets:
     enable: true
     # title: "Custom Name"
     items:
